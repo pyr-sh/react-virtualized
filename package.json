@@ -1,9 +1,9 @@
 {
-  "name": "react-virtualized",
+  "name": "@pyr.sh/react-virtualized",
   "description": "React components for efficiently rendering large, scrollable lists and tabular data",
   "author": "Brian Vaughn <brian.david.vaughn@gmail.com>",
   "user": "bvaughn",
-  "version": "9.22.3",
+  "version": "9.22.4",
   "homepage": "https://github.com/bvaughn/react-virtualized",
   "main": "dist/commonjs/index.js",
   "module": "dist/es/index.js",
@@ -47,7 +47,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bvaughn/react-virtualized.git"
+    "url": "https://github.com/pyr-sh/react-virtualized.git"
   },
   "keywords": [
     "react",
@@ -74,9 +74,9 @@
     "@babel/core": "^7.7.2",
     "@babel/plugin-external-helpers": "^7.2.0",
     "@babel/plugin-proposal-class-properties": "^7.7.0",
+    "@babel/plugin-transform-flow-comments": "^7.12.13",
     "@babel/plugin-transform-modules-commonjs": "^7.7.0",
     "@babel/plugin-transform-runtime": "^7.6.2",
-    "@babel/plugin-transform-flow-comments": "^7.12.13",
     "@babel/polyfill": "^7.7.0",
     "@babel/preset-env": "^7.7.1",
     "@babel/preset-flow": "^7.0.0",
